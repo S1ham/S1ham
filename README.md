@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello! I'm Siham Ali
 
-<!--
-**S1ham/S1ham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer learning Java, Python, and web development.  
+I love building simple projects to improve my skills.
 
-Here are some ideas to get you started:
+## 🚀 My Projects
+- 💻 Portfolio Website (HTML/CSS)
+- 📊 Student Grade Calculator (Python)
+- 🚴 E-Hailing Bicycle System (Java)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- ✉️ Email: alexdev@example.com
+- 💼 LinkedIn: [alexdev](https://linkedin.com/in/alexdev)
+
+Thanks for visiting my profile! 🌟
